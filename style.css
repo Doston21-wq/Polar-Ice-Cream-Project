@@ -40,4 +40,7 @@ ul li:hover{
     position: relative;
     left: 1000px;
     top: -75px;
+    width: 130px;
+    border: none;
 }
+/* Home section start */
