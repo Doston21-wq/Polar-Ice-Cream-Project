@@ -93,7 +93,7 @@ ul li:hover{
 }
 /* Home section end */
 /* Group section start */
-    
+
 .Group {
   padding: 40px;
   background-color: #f9f9f9;
@@ -139,3 +139,11 @@ ul li:hover{
   color: #777;
   line-height: 1.4;
 }
+/* Group section end */
+/* About section start */
+.About {
+  padding: 40px;
+  background-color: #f4f4f4;
+  text-align: center;
+}
+.about-text{}
