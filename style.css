@@ -7,8 +7,11 @@
 body{
     background-color: #f4f4f4;   
 }
+/* Nav section start */
 nav{
    color: #333;
+   
+
     padding: 10px 20px;
 }
 .logo{
@@ -42,7 +45,9 @@ ul li:hover{
     top: -75px;
     width: 130px;
     border: none;
+    cursor: pointer;
 }
+/* Nav section end */
 /* Home section start */
 .home{
     display: flex;
@@ -68,7 +73,23 @@ ul li:hover{
     height: 500px;
     
 }
-.home.p2{
+.home .p2{
     color: #6D6162;
     font-family: Hind Madurai, sans-serif;
+    font-size: 18px;
+    line-height: 27px;
 }
+.btn2{
+     background-color: #D23166;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+    position: relative;
+    top: 15px;
+    width: 130px;
+    border: none;
+}
+/* Home section end */
+/*
