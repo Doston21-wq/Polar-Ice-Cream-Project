@@ -9,6 +9,22 @@ body{
 }
 nav{
    color: #333;
-    color: white;
     padding: 10px 20px;
+}
+.logo{
+    font-size: 24px;
+    margin-left: 150px;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    gap: 10px;
+    top: -45px;
+    gap: 20px;
+}
+li{
+    cursor: pointer;
+
 }
