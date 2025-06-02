@@ -44,3 +44,18 @@ ul li:hover{
     border: none;
 }
 /* Home section start */
+.home{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: -40px;
+}
+.home .p1{
+        letter-spacing: 10%;
+        color: #0F0101;
+}
+.home img{
+    width: 500px;
+    height: 500px;
+    
+}
