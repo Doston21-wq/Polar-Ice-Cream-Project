@@ -418,3 +418,37 @@ button:hover {
 /* Download Section End */
 
 
+/* Contact section start */
+.contact-section{
+    padding: 60px 20px;
+    background-color: #ffffff;
+    text-align: center;
+    height: 60vh;
+}
+ .contact-section h1{
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 20px;
+    font-family: Fredoka One, cursive;
+ }
+ .contact-section input{
+    width: 550px;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+    font-size: 16px;
+ }
+ .contact-section input:focus{
+    border-color:#D23166;
+    outline: none;
+ }
+ .contact-section button{
+    margin-left: -90px;
+    border-radius: 30px;
+
+ }
+/* Contact section end */
+
+
+/* 
