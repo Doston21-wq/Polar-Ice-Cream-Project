@@ -15,33 +15,12 @@ A beautiful and responsive Ice Cream shop website built with HTML, CSS, and Java
 
 ---
 
-## 📷 Screenshots
-
-![Screenshot](./screenshots/homepage.png)
-*(Replace with your own image)*
-
----
-
 ## 🛠 Tech Stack
 
 - HTML5
 - CSS3 (Flexbox and Media Queries)
 - JavaScript (if added)
 - Font Awesome for icons (optional)
-
----
-
-## 📂 Folder Structure
-ice-cream-site/
-├── index.html
-├── style.css
-├── assets/
-│ ├── images/
-│ └── fonts/
-├── scripts/
-│ └── main.js (optional)
-└── README.md
-
 
 ---
 
